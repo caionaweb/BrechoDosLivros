@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cover1.png",
+        "source": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\src\\main\\res\\drawable-xhdpi\\cover1.png"
+    },
+    {
+        "merged": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow.png",
+        "source": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add.png",
+        "source": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cover3.png",
+        "source": "C:\\Users\\Caio\\Desktop\\tmp\\livroP\\aplicativo\\app\\src\\main\\res\\drawable-xhdpi\\cover3.png"
+    }
+]

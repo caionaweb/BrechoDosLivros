@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_logout">Sair</string>
+    <string name="action_navigate1">Vender</string>
+    <string name="action_navigate2">Doar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_signin">Entrar</string>
+    <string name="action_signup">Cadastrar</string>
+    <string name="add_book_author">Autor</string>
+    <string name="add_book_bname">Título</string>
+    <string name="add_book_edition">Edição</string>
+    <string name="add_book_mrp">MPR</string>
+    <string name="add_book_price">Preço</string>
+    <string name="add_book_publication">Publicação</string>
+    <string name="add_book_submit">Adicionar Livro</string>
+    <string name="addnew">Adicionar Novo</string>
+    <string name="app_name">LivrosP</string>
+    <string name="choose_book_content_description">Adicionar um Botão</string>
+    <string name="choose_book_notfound">Não encontrou o seu?</string>
+    <string name="choose_book_search">Procurar</string>
+    <string name="donate_book_submit">Doar</string>
+    <string name="hello_world">Olá!</string>
+    <string name="info_book_Location">Universidade</string>
+    <string name="info_book_city">Cidade</string>
+    <string name="info_book_contact">Telefone</string>
+    <string name="info_book_cpass">Confirmar Senha</string>
+    <string name="info_book_empty">O campo está vazio!</string>
+    <string name="info_book_heading">Informações da Conta</string>
+    <string name="info_book_name">Seu Nome</string>
+    <string name="info_book_optional">Opcional:</string>
+    <string name="info_book_pass">Senha</string>
+    <string name="info_book_submit">enviar</string>
+    <string name="list_book_author">Autor</string>
+    <string name="list_book_bname">Título</string>
+    <string name="list_book_booktype">Tipo</string>
+    <string name="list_book_city">Cidade</string>
+    <string name="list_book_college">Universidade</string>
+    <string name="list_book_content_description">Descrição Rolar</string>
+    <string name="list_book_edition">Edição</string>
+    <string name="list_book_mrp">MRP</string>
+    <string name="list_book_price">Preço</string>
+    <string name="list_book_sr">Sr. No.</string>
+    <string name="main_book_button1">Vender</string>
+    <string name="main_book_button2">Doar</string>
+    <string name="main_book_button3">Necessito</string>
+    <string name="need_book_contact">Telefone</string>
+    <string name="need_book_heading">Contatot</string>
+    <string name="need_book_mail">E-mail</string>
+    <string name="pager_book_content_description">Rolar Imagens</string>
+    <string name="sell_book_submit">Vender</string>
+    <string name="signin_book_heading">Entrar</string>
+    <string name="signin_book_mail">E-mail</string>
+    <string name="signin_book_pass">Senha</string>
+    <string name="signin_book_submit">Entrar</string>
+    <string name="signup_book_heading">Cadastrar</string>
+    <string name="signup_book_submit">Cadastrar</string>
+    <string name="title_activity_add_book">Adicionar Livro</string>
+    <string name="title_activity_choose_book">Escolher</string>
+    <string name="title_activity_donate_book">Doar</string>
+    <string name="title_activity_list_books">Lista</string>
+    <string name="title_activity_need_book">Obter Livros</string>
+    <string name="title_activity_sell_book">Venda</string>
+    <string name="title_activity_sign_in">Entrar</string>
+    <string name="title_activity_sign_up">Cadastrar</string>
+    <string name="title_activity_user_info">Inforamações de Usuário</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_fc48c2f31d94a49a1d9a6beacae3f681cda6fc86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_71133f5d12ff162ec7961393a2a7c43703e45956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_ac5ece02b502fc000c18a73f71124eae92225f6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_495301ceebe4a9a557a9ef0cb126bd33eb9f3a6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_45e199d4855a3b9bfe9cf205430ccedf789d1e53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_db1d4372a766e1c8e47b7bd048c8f4397801b7a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6aae92965a93471bb606d1372916244d875f2072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_5488b04b069e19c8a7e13c029f5fba598373f9af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ba54d1e01c73cc63e10c61f2a78cc50cbda914b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6b14ba2498cf97f3a3ad7528716697825bd4d621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_f886ffb637da201f5caec19181d576d8e4935fdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_7b74f206daca7a58a02ca43c9c8667df0e8f3833.jar" />
+    </item>
+
+</items>

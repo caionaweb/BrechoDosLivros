@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="25"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="4104362925952"
+    token="3906739765252370956"
+    verifier="INITIAL_BUILD" >
+
+    <task
+        name="javac"
+        duration="521" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="415" />
+    <task
+        name="verifier"
+        duration="66" />
+
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\dependencies_be54aee1326a509aaf08b631a1d6eb260a0e6ba2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        timestamp="4104362925952"
+        verifier="INITIAL_BUILD" >
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\dependencies_be54aee1326a509aaf08b631a1d6eb260a0e6ba2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\intermediates\split-apk\debug\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Caio\Desktop\tmp\livroP\aplicativo\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>
